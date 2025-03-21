@@ -1,0 +1,15 @@
+# Node.js loyihasi uchun
+node_modules/
+.env
+dist/
+logs/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# VSCode konfiguratsiyasi
+.vscode/
+
+# OS fayllari
+.DS_Store
+Thumbs.db
